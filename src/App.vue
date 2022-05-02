@@ -6,7 +6,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 <template>
 	<img alt="Vue logo" src="./assets/logo.png" />
-	<HelloWorld msg="Deploy Github Actions" />
+	<HelloWorld msg="Deploy Github Actions 2" />
 </template>
 
 <style>
